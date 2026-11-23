@@ -13,18 +13,13 @@ npm run dev
 
 Open the local URL Vite prints, usually http://localhost:5173.
 
-Main sections
 
+Main sections:
 Hero
-
 Featured Work
-
 About
-
 Experience
-
 Education
-
 Skills
 
 More Projects
