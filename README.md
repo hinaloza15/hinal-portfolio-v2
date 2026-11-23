@@ -1,50 +1,34 @@
-# Hinal Oza Portfolio
+Hinal Oza Portfolio
 
-React + Vite portfolio for AI, analytics, and software engineering work.
+Portfolio: https://hinaloza.vercel.app/
 
-## Run locally
+Access note: If you are opening the portfolio through an organizational or school Microsoft account, your organization’s security settings may flag the Vercel link. If that happens, please open the link in a personal browser session or use a personal email account instead.
 
-```bash
+React + Vite portfolio showcasing my work in software development, AI, analytics, and data.
+
+Run locally
+
 npm install
 npm run dev
-```
 
-Open the local URL Vite prints, usually `http://localhost:5173`.
+Open the local URL Vite prints, usually http://localhost:5173.
 
-## If replacing an older broken copy
+Main sections
 
-```bash
-rm -rf node_modules package-lock.json
-npm install
-npm run dev
-```
+Hero
 
-This version intentionally has **no lucide-react dependency**. All icons are local SVG React components in `src/components/Icons.jsx`, which avoids package-export compatibility issues.
+Featured Work
 
-## Production build
+About
 
-```bash
-npm run build
-npm run preview
-```
+Experience
 
-## Deploy to Vercel
+Education
 
-1. Push this folder to a GitHub repository.
-2. Import the repository into Vercel.
-3. Framework preset: Vite.
-4. Build command: `npm run build`.
-5. Output directory: `dist`.
-6. Deploy.
+Skills
 
-## Main sections
+More Projects
 
-- Hero
-- Featured Work
-- About
-- Experience
-- Education
-- Skills
-- More Projects
-- Beyond the Terminal
-- Contact
+Beyond the Terminal
+
+Contact
